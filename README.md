@@ -1,6 +1,6 @@
 Zoombox
 =============
-
+lol
 Zoombox is an easy to use Javascript class that allow you to overlay images and videos on the current page.
 
 Set up
